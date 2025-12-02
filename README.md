@@ -47,7 +47,7 @@ sudo yum install libcurl-devel cjson-devel gcc   # RHEL
 
 ## Compilation
 ```
-gcc ip_info_auto.c -o ip_info_auto -lcurl -lcjson
+gcc ip_lookup.c -o ip_lookup -lcurl -lcjson
 ```
 Usage
 
