@@ -1,6 +1,6 @@
 # IP Information Tool
 
-A **command-line IP information tool** written in C. Fetch detailed information about one or multiple IP addresses, including geolocation, ISP/organization, timezone, and network info. Supports **automatic public IP detection**, **colorized terminal output**, and **raw JSON output** for scripting.
+A simple **command-line IP information tool** written in C. Fetch detailed information about one or multiple IP addresses, including geolocation, ISP/organization, timezone, and network info. Supports **automatic public IP detection**, **colorized terminal output**, and **raw JSON output** for scripting.
 
 ---
 
