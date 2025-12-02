@@ -53,19 +53,19 @@ Usage
 
 Output for specific IPs:
 ```
-./ip_info_auto 8.8.8.8 1.1.1.1
+./ip_lookup 8.8.8.8 1.1.1.1
 ```
 Detect your public IP and output it:
 ```
-./ip_info_auto my_ip
+./ip_lookup my_ip
 ```
 Raw JSON output for multiple IPs:
 ```
-./ip_info_auto --json 8.8.8.8 1.1.1.1
+./ip_lookup --json 8.8.8.8 1.1.1.1
 ```
 Show help:
 ```
-./ip_info_auto -h
+./ip_lookup -h
 ```
 Example Output
 ```
